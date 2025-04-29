@@ -5,11 +5,11 @@
 **Group 4**
 
 ## Team Members
-1. Vivek Murugulla [vcm79503]()
-2. Sejal Arora [sejalarora714]()
-3. Angie Lin [aangielin]()
-4. Alyssa Luangxay [alyssaxlu]()
-5. Robert Anthony [ra14858]()
+1. Vivek Murugulla [vcm79503](https://github.com/vcm79503/4610-Project-2?tab=readme-ov-file)
+2. Sejal Arora [sejalarora714](https://github.com/sejalarora714/Project-2/blob/main/README.md)
+3. Angie Lin [aangielin](https://github.com/aangielin/4610-Project-2)
+4. Alyssa Luangxay [alyssaxlu](https://github.com/alyssaxlu/Team-4-MIST-4610-Group-Project-2/blob/main/README.md)
+5. Robert Anthony [ra14858](https://github.com/robertanthony23/Project-II)
 
 ## Dataset Description
 Source:
